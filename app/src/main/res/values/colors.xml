@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ivory">#CBD5E8</color>
+    <color name="forest_green">#17191F</color>
+    <color name="sage">#707C91</color>
+    <color name="muted_text">#626D80</color>
+    <color name="divider">#DCE2ED</color>
+    <color name="white">#F8F9FC</color>
+
+    <color name="accent_yellow">#F3D99B</color>
+    <color name="surface_blue">#E3E9F3</color>
+</resources>
